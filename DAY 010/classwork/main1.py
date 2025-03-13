@@ -1,0 +1,5 @@
+height= input("your height:")
+height= float(height)
+years= input("years have passed:")
+height=height + (years*0.5)
+print(height)
