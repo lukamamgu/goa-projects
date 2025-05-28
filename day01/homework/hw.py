@@ -1,0 +1,7 @@
+print("andria kobaxize")
+print("andria facacia")
+print("barbare wivilasvili")
+print("beso gelxauri")
+print("deme tcintsadze")
+print("sani bedoidze")
+print("taso tasuna")

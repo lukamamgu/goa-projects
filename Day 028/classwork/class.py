@@ -1,5 +1,0 @@
-print("luka".capitalize())
-print("Luka".lower())
-print("Luka".upper())
-print("luka".find("a"))
-print("luka".find("l"))
